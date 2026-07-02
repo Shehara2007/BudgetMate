@@ -68,7 +68,7 @@ BudgetMate-App/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/harsha200210/BudgetMate-App.git
+   git clone https://github.com/Shehara2007/BudgetMate
    cd BudgetMate-App
 
 2. **Install dependencies**  
@@ -100,11 +100,7 @@ BudgetMate-App/
     ```bash
    eas build --platform android
 
-## 📽️ Demonstration Video
 
-<a href="https://youtu.be/pFmWk63iVcw">
-  <img src="ss/thumbling.png" width="200" alt="Watch the demo">
-</a>
 
 
 
